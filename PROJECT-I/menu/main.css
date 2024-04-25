@@ -1,0 +1,45 @@
+/* @import url('https://fonts.googleapis.com/css2?family=poppins:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); */
+
+*{
+    padding: 0;
+    margin: 0;
+    list-style: border-box;
+    font-family:'poppins',sans-serif;
+}
+
+.container{
+    width: 85%;
+    margin:50px auto;
+    text-align: center;
+}
+
+.title h2{
+    font-family: 'loster',cursive;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.tittle p{
+    font-size: 14px;
+    color: black;
+    
+    width: 60%;
+    /* margin: 0px auto 20px auto; */
+    margin-bottom: 60%;
+    
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    margin-bottom:50px ;
+}
+
+.list li{
+    margin: 0px 15px;
+    font-weight:600 ;
+    font-size: 16px;
+
+}
+
